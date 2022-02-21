@@ -1,1 +1,6 @@
-# estudos-node
+# Simples API para estudos
+
+## Tecnologias
+- Nodejs
+- Express
+- PostgreSQL
